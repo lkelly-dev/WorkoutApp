@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.App{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.exercise-card{
+  width: 200px;
+  margin: 10px;
+}
+
+
+
+.ant-card-head-title{
+  display: block;
+}
